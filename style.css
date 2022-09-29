@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-.desktop {
+.container {
     position: relative;
 width: 1440px;
 height: 1046px;
@@ -35,7 +35,7 @@ font-size: 24px;
 line-height: 150%;
 }
 
-.container{
+.container1{
     display: flex;
     
 }
@@ -54,7 +54,7 @@ height: 315px;
 margin-left: 190px;
 
 }
-.bottom-paragrap-container{
+.bottom-paragraph-container{
     display: flex;
     flex-direction: row;
     margin-left: 500px;
